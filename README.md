@@ -51,11 +51,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+ 
 </div>
 
 ###
 
-<h5 align="left">🔥   My Stats : Only Python</h5>
+<h5 align="left">🔥   My Stats : Web Pentesting</h5>
 
 ###
